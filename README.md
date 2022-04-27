@@ -1,2 +1,0 @@
-# Netflix-Clone
-DevTown Bootcamp
